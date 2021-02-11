@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kronos",
+        "repositoryURL": "https://github.com/lyft/Kronos.git",
+        "state": {
+          "branch": null,
+          "revision": "fca6a28088028c709df921307032ccb7fcab4bc0",
+          "version": "4.1.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
